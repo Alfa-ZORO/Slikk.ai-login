@@ -1,0 +1,62 @@
+.formContent {
+    width: 350px;
+    height: 400px;
+    background: #fff;
+    border-radius: 5px;
+    padding: 40px 40px;
+    box-shadow: 0 0 10px #0000003d;
+    position: absolute;
+  }
+  .formInput {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+  .input {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    border: none;
+  }
+  
+  .inputHeading {
+    font-family: "Roboto", sans-serif;
+    color: #5433FF;
+  }
+  .inputLabel {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+  }
+  
+  .userInput {
+    border: 2px solid #bfb1f9;
+    padding: 10px;
+    border-radius: 5px;
+    outline: none;
+    box-shadow: 0 0 10px #0000003d;
+  }
+  .formError{
+    color: red;
+    margin-top: 5px;
+    margin-bottom: -15px;
+  }
+  .btn {
+    background-image: linear-gradient(to right, #5433ff, #20bdff);
+    border: none;
+    color: white;
+    font-size: larger;
+    padding: 5px;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  .forgot {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    margin-top: 40px;
+    color: #715BC8;
+    cursor: pointer;
+  }
+  
+  

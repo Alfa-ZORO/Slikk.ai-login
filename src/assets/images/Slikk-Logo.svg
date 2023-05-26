@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="179.988" height="102.85" viewBox="0 0 179.988 102.85">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_590" data-name="Rectangle 590" width="179.988" height="102.85" transform="translate(0.303 -0.478)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fb0"/>
+      <stop offset="1" stop-color="#ff6ba4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6ba4"/>
+      <stop offset="1" stop-color="#fb0"/>
+    </linearGradient>
+  </defs>
+  <g id="Slikk-Logo-Whitebackground" transform="translate(-0.303 0.478)" clip-path="url(#clip-path)">
+    <g id="logo" transform="translate(7.471 24.01)">
+      <g id="Icon" transform="translate(0 0)">
+        <g id="Group_20" data-name="Group 20" transform="translate(0.566 15.463)">
+          <path id="Path_95" data-name="Path 95" d="M5.618.008A1.809,1.809,0,0,1,7.729,1.937L4.6,37.2a2.726,2.726,0,0,1-2.486,2.3A1.809,1.809,0,0,1,.008,37.571L3.132,2.311A2.726,2.726,0,0,1,5.618.008Z" transform="matrix(0.848, 0.53, -0.53, 0.848, 20.939, 0.26)" fill="url(#linear-gradient)"/>
+          <path id="Path_96" data-name="Path 96" d="M2.1.009A2.743,2.743,0,0,1,4.579,2.331l3.3,36.333A1.8,1.8,0,0,1,5.787,40.6a2.743,2.743,0,0,1-2.479-2.322L.008,1.944A1.8,1.8,0,0,1,2.1.009Z" transform="matrix(-0.829, 0.559, -0.559, -0.829, 50.825, 33.666)" fill="url(#linear-gradient-2)"/>
+        </g>
+        <path id="Path_94" data-name="Path 94" d="M5.952,0A5.952,5.952,0,1,1,0,5.952,5.952,5.952,0,0,1,5.952,0Z" transform="translate(19.841 37.986)" fill="#fb0"/>
+        <path id="Path_1743" data-name="Path 1743" d="M5.952,0A5.952,5.952,0,1,1,0,5.952,5.952,5.952,0,0,1,5.952,0Z" transform="translate(0 21.202)" fill="#00d65c"/>
+        <path id="Path_1742" data-name="Path 1742" d="M5.952,0A5.952,5.952,0,1,1,0,5.952,5.952,5.952,0,0,1,5.952,0Z" transform="translate(40.211 21.202)" fill="#00c4ff"/>
+        <circle id="Ellipse_62" data-name="Ellipse 62" cx="5.51" cy="5.51" r="5.51" transform="translate(19.77)" fill="#ff6ba4"/>
+      </g>
+      <g id="Group_997" data-name="Group 997" transform="translate(69.971 3.673)">
+        <g id="Team_Leap_Logo" data-name="Team Leap Logo" transform="translate(0 0)">
+          <g id="TL" transform="translate(0 0)">
+            <g id="TL-2" data-name="TL">
+              <g id="Brand-name">
+                <g id="Group_4" data-name="Group 4">
+                  <g id="Group_5" data-name="Group 5">
+                    <g id="logo-2" data-name="logo">
+                      <text id="Slikk" transform="translate(0 39)" fill="#2900ff" font-size="38" font-family="Urbane Rounded" font-weight="300"><tspan x="0" y="0">Slikk</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
